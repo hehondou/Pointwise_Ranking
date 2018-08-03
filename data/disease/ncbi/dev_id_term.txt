@@ -1,0 +1,384 @@
+C535395	atelosteogenesis type 2
+C535395	AO2
+C535395	AO-2
+C536016	ACG1B
+C536016	achondrogenesis type 1B
+C536170	DTD
+C536170	diastrophic dysplasia
+C536252	Pyle disease
+C536353	VLCAD deficiency
+C536399	adult renal hamartomas
+C537207	Kniest dysplasia
+C537502	SJS type 2
+C537750	renal oncocytomas
+C537849	ND
+C537849	Norrie disease
+C538265	attenuated adenomatous polyposis coli
+C538265	AAPC
+C538445	clear-cell renal cell carcinoma
+C538554	diminished GALC activity
+D000224	adrenocortical insufficiency
+D000224	Addison's disease
+D000224	Addisons disease
+D000309	adrenal insufficiency
+D000309	Adrenal insufficiency
+D000326	X-Linked adrenoleukodystrophy
+D000326	adrenomyeloneuropathy
+D000326	X-linked adrenoleukodystrophy
+D000326	cerebral ALD
+D000326	AMN
+D000326	Adrenomyeloneuropathy
+D000326	ALD
+D000474	alkaptonuria
+D000746	chronic nonspherocytic hemolytic anemia
+D001008	anxiety
+D001019	aortic rupture
+D001260	AT
+D001260	ataxia-telangiectasia
+D001260	Ataxia-telangiectasia
+D001260	A-T
+D001284	atrophy
+D001327	autoimmune manifestations
+D001424	bacterial infections
+D001523	behavioral abnormalities
+D001766	blindness
+D001848	bone dysplasia
+D001927	brain abnormalities
+D001932	brain, breast, and prostate cancer
+D001943	breast and ovarian cancer
+D001943	breast carcinoma
+D001943	estrogen receptor-positive breast carcinomas
+D001943	breast cancer
+D001943	sporadic breast cancers
+D001943	breast cancers
+D001943	hereditary breast cancer
+D001943	breast and 79 ovarian cancer
+D001943	familial breast cancer
+D001943	inherited breast cancer
+D001943	breast, ovarian, or other cancers
+D001943	breast or ovarian cancer
+D001943	breast carcinomas
+D001943	brain, breast, and prostate cancer
+D001943	sporadic breast and ovarian cancers
+D001943	breast and ovarian cancers
+D002292	papillary renal cell tumours
+D002292	sporadic renal cell carcinomas
+D002292	renal cell carcinomas
+D002292	non-papillary renal cell carcinomas
+D002292	renal cell carcinoma
+D002292	RCC
+D002292	non-papillary renal cell carcinoma
+D002292	sporadic renal cell carcinoma
+D002296	carcinosarcoma
+D002312	hypertrophic cardiomyopathy
+D002386	cataract
+D002524	cerebellar ataxia
+D002658	developmental defects
+D002658	semidominant developmental disorders
+D002869	chromosome abnormalities
+D003095	defective formation of type II collagen
+D003123	HNPCC
+D003123	hereditary nonpolyposis colorectal cancer
+D003327	coronary heart disease
+D003327	CHD
+D003704	dementia
+D003922	IDDM
+D004194	disorder of inappropriate apoptosis
+D004535	type IV Ehlers-Danlos syndrome
+D004827	idiopathic epilepsies
+D005124	eye abnormalities
+D005124	developmental abnormalities of the eye
+D005236	favism
+D005355	fibrosis
+D005693	classical galactosemia
+D005693	galactosemia
+D005693	classical and Duarte galactosemia
+D005693	Classical galactosemia
+D005693	LA variant of galactosemia
+D005693	Duarte enzyme variant of galactosemia
+D005693	Duarte and Los Angeles variant galactosemia
+D005909	glioblastoma
+D005909	primary glioblastomas
+D005955	glucose-6-phosphate dehydrogenase (G6PD) deficiency
+D005955	glucose-6-phosphate dehydrogenase deficiency
+D005955	G6PD deficient
+D005955	G6PD deficiency
+D006059	gonadal anomaly
+D006106	juvenile granulosa cell tumour
+D006130	short stature
+D006130	growth retardation
+D006623	RCC- and von Hippel-Lindau disease-associated tumors
+D006623	von Hippel-Lindau (VHL) disease
+D006623	von Hippel-Lindau disease
+D006623	von Hippel-Lindau tumor
+D006623	von Hippel-Lindau disease tumour
+D006623	VHL
+D006623	von Hippel-Lindau disease-associated and sporadic RCCs
+D006816	Huntington disease
+D006816	HD
+D006961	HPT
+D007153	deficiencies of complement components
+D007153	immunodeficiency
+D007153	Deficiency of terminal complement components
+D007153+D040181	X-linked immunodeficiency disease
+D007154	Immune defects
+D007154	immune defects
+D007246	infertility
+D007248	male-infertility
+D007499	iris hypoplasia
+D007573	jaw tumor
+D007573	JT
+D007592	restricted joint mobility
+D007674	parenchymal tumours of the kidney
+D007674	renal nephropathy
+D007674+D006222	renal hamartomas
+D007680	kidney cancer
+D007680	renal lesions
+D007690	polycystic kidney disease
+D007863	FED
+D007863	fish-eye disease
+D007890	leiomyosarcoma
+D007926	Lesch-Nyhan syndrome
+D007926	lesch-nyhan syndrome
+D007926	HPRT-deficient
+D007926	Complete hypoxanthine-guanine phosphoribosyl-transferase (HPRT) deficiency
+D007926	HPRT-deficiency
+D007965	GLD
+D007965	Adult onset globoid cell leukodystrophy
+D007965	adult onset globoid cell leukodystrophy
+D007965	IF-GLD
+D007965	AO-GLD
+D008067	primary lipomas
+D008067	lipoma
+D008067	lipomas
+D008175	prostatic, pancreas, skin, and lung cancer
+D008206	lymphadenopathy
+D008206	fatal lymphoreticular disease
+D008223	thymic lymphomas
+D008545	malignant melanoma
+D008581	meningitis
+D008589	Neisseria meningitidis
+D008607	severely handicapped
+D008607	mental retardation
+D008654	non-asbestos related mesothelioma
+D008659	inherited metabolic disorder
+D008661	enzyme deficiency
+D009135	progressive skeletal myopathy
+D009135	myopathy
+D009135+D030342	inherited disorder of skeletal muscle
+D009222	myotonia
+D009223	Myotonic dystrophy
+D009223	dystrophia myotonica
+D009223	myotonic dystrophy
+D009223	DM
+D009362	metastatic tumors
+D009362	metastasis
+D009369	cancer-prone
+D009369	DCC-negative tumors
+D009369	tumour
+D009369	tumors
+D009369	stage III cancers
+D009369	cancer-associated diseases
+D009369	Tumor
+D009369	solid tumor
+D009369	sporadic tumours
+D009369	nonocular tumors
+D009369	cancers
+D009369	tumor types
+D009369	cancer
+D009369	breast, ovarian, or other cancers
+D009369	tumours
+D009369	cancer predisposition
+D009369	sporadic cancers
+D009369	solid tumors
+D009369	stage III disease
+D009369	tumor
+D009377	multiple endocrine neoplasia (MEN) types 1 and 2
+D009386	hereditary cancer
+D009386	inherited cancer syndrome
+D009396	Wilms tumour
+D009396	WT
+D009396	sporadic Wilms tumours
+D009468	neuromuscular disease
+D009837	oligodendroglioma
+D010009	chondrodysplasia
+D010009	chondrodysplasias
+D010051	breast and ovarian cancer
+D010051	Ovarian cancer
+D010051	breast and 79 ovarian cancer
+D010051	ovarian cancers
+D010051	breast, ovarian, or other cancers
+D010051	Ovarian Cancer
+D010051	breast or ovarian cancer
+D010051	ovarian cancer
+D010051	sporadic breast and ovarian cancers
+D010051	breast and ovarian cancers
+D010190	pancreatic tumors
+D010190	pancreatic cancer
+D010190	pancreatic tumour
+D010190	prostatic, pancreas, skin, and lung cancer
+D010190	pancreatic cancers
+D010264	spastic paraplegia
+D010282	parathyroid tumor
+D010505	familial Mediterranean fever
+D010505	FMF
+D010554	personality disorders
+D010661	PKU
+D010661	phenylketonuria
+D010673	phaeochromocytoma
+D011125	adenomatous polyposis coli
+D011125	APC
+D011125	Familial adenomatous polyposis
+D011125	FAP
+D011218	Prader-Willi syndrome
+D011218	PWS
+D011471	prostate carcinoma
+D011471	prostatic, pancreas, skin, and lung cancer
+D011471	prostate carcinomas
+D011471	prostate cancer
+D011471	prostatic adenocarcinoma
+D011471	Prostate cancer
+D011471	prostate adenocarcinoma
+D011471	brain, breast, and prostate cancer
+D012175	retinal, cerebellar and spinal haemangioblastomas
+D012175	familial or sporadic bilateral retinoblastoma
+D012175	retinoblastoma
+D012175	hereditary retinoblastoma
+D012878	prostatic, pancreas, skin, and lung cancer
+D013132	cerebellar degeneration
+D013163	splenomegaly
+D013921	isolated thrombocytopenia
+D013945	thymomas
+D013953	thymic lymphoma
+D014202	tremors
+D014842	von Willebrand
+D014923	WAS
+D014923	Wiskott-Aldrich syndrome
+D015179	colorectal cancers
+D015179	colorectal carcinoma
+D015179	colorectal cancer
+D015179	stage II and III colorectal carcinomas
+D015179	stage II colorectal carcinomas
+D015179	stage II colorectal cancer
+D015179	stage II or stage III colorectal cancer
+D015179	stage II and stage III colorectal carcinomas
+D015470	acute myeloid leukemia
+D015783	aniridia
+D015783	sporadic aniridia
+D015783	Aniridia
+D015783	bilateral sporadic aniridia
+D015783	familial aniridia
+D016399	T-cell lymphomas
+D016864	Li-Fraumeni syndrome
+D016870	neisseria infections
+D016889	endometrial carcinomas
+D016889	endometrial carcinoma
+D016889	endometrial cancer
+D017034	autosomal dominant nocturnal frontal lobe epilepsy
+D017825	deficiency of aspartoacylase
+D017825	deficiency of ASPA
+D017825	Canavan disease
+D018232	Pediatric alveolar rhabdomyosarcoma
+D018232	alveolar rhabdomyosarcoma
+D018256	adenomatous polyps
+D018325	retinal, cerebellar and spinal haemangioblastomas
+D018325	haemangioblastoma
+D018567	male breast cancer
+D018813	MEN2
+D019337	hematopoietic and solid tumors
+D020022	predisposition to WT
+D020271	X-linked recessive neurological disorder
+D020279	demyelination of the central nervous system
+D020389	EMDM
+D020389	EDMD
+D020389	Emery-Dreifuss muscular dystrophy
+D020417	nystagmus
+D020936	benign familial neonatal convulsions
+D020966	fibre degeneration
+D030321	Denys-Drash syndrome
+D030342	autosomal recessive disorder
+D030342	genetic disorder
+D030342	recessively inherited condition
+D030342	inherited human disorder
+D030342	genetic disease
+D030342	autosomal dominant disorder
+D030342	autosomal dominant disease
+D030342	inherited human disease
+D030342	autosomal dominant multisystem disorder
+D048629	chromosomal fragmentation during meiosis
+D049950	primary HPT
+D052177	cystic kidney disease
+D053842	microsatellite instability
+D054508	acute radiation toxicity
+D056728	type IID von Willebrand disease
+D056735	ALPS
+D056735	autoimmune lymphoproliferative syndrome
+D058405	desmoplastic small round cell tumour
+D061325	familial breast and ovarian cancer
+D061325	hereditary breast and ovarian cancer
+D061325	hereditary breast or ovarian cancer
+D061325	hereditary breast cancers
+D061325	breast-ovarian cancer
+D061325	hereditary ovarian cancer
+D061325	breast and/or ovarian cancer
+D061325	breast and ovarian cancer
+D061325	inherited breast/ovarian cancer
+D061325	inherited breast and ovarian cancer
+D061325	breast/ovarian cancer
+D061325	hereditary breast cancer
+OMIM:102600	APRT deficiency
+OMIM:102600	deficiency of APRT
+OMIM:125852	insulin-dependent diabetes mellitus
+OMIM:131100	MEN1
+OMIM:143470	CETP deficiency
+OMIM:145001	hyperparathyroidism and jaw tumor syndrome
+OMIM:145001	HPT-JT
+OMIM:145001	HPT-JT syndrome
+OMIM:145001	Hereditary hyperparathyroidism-jaw tumor syndrome
+OMIM:160800	Autosomal dominant myotonia congenita
+OMIM:160800	autosomal dominant myotonia congenita
+OMIM:160900	Dmpk deficient
+OMIM:217000	Type II deficiency
+OMIM:217000	Type I C2 deficiency
+OMIM:217000	Type II complement protein C2 deficiency
+OMIM:217000	Type II human complement C2 deficiency
+OMIM:217000	Type II C2 deficiency
+OMIM:222600	DTDST chondrodysplasias
+OMIM:245200	Krabbe disease
+OMIM:255800	SJS  type 1A
+OMIM:255800	Schwartz-Jampel syndrome
+OMIM:255800	SJS
+OMIM:255800	chondrodystrophic myotonia
+OMIM:255800	Schwartz-Jampel chondrodystrophic myotonia
+OMIM:261600	PAH-deficient
+OMIM:261600	deficiency of hepatic phenylalanine hydroxylase
+OMIM:300322+OMIM:102600	HPRT-APRT-deficient
+OMIM:300322+OMIM:102600	APRT-HPRT-deficient
+OMIM:312080	Pelizaeus-Merzbacher disease
+OMIM:312080	PMD
+OMIM:312080+OMIM:312920	PLP-associated disease
+OMIM:312920	X-linked spastic paraplegia
+OMIM:312920	SPG
+OMIM:313900	X-linked thrombocytopenia
+OMIM:604370	breast/ovarian cancer
+OMIM:604370	breast and/or ovarian cancer
+OMIM:607834	anxiety-related traits
+OMIM:607834	anxiety-related personality traits
+OMIM:610102	C7 deficiency
+OMIM:610102	C7D
+OMIM:610102	C6 or C7 deficiency
+OMIM:610102	complement C7 deficiency
+OMIM:610102	Complement C7 deficiency
+OMIM:610102	C7-deficient
+OMIM:610102	C6 and C7 deficiencies
+OMIM:610102	combined subtotal deficiencies of C6 and C7
+OMIM:610102	Combined subtotal deficiency of C6 and C7
+OMIM:612446	C6 or C7 deficiency
+OMIM:612446	combined subtotal deficiencies of C6 and C7
+OMIM:612446	C6-deficient
+OMIM:612446	C6 and C7 deficiencies
+OMIM:612446	Combined subtotal deficiency of C6 and C7
+OMIM:613825	inherited C9 deficiency
+OMIM:613825	C9-deficient
+OMIM:613825	C9 deficiency
+OMIM:613825	complete deficiency of C9

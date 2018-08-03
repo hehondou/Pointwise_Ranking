@@ -1,0 +1,1499 @@
+C531616	primary systemic amyloidosis
+C531767	optic disc edema
+C535670	isotretinoin embryopathy
+C536409	folate deficiency
+C537153	hypomagnesemia
+C537417	Butyrylcholinesterase deficiency
+C537630	birdshot retinochoroidopathy
+C544351	idiopathic orthostatic hypotension
+C562386	essential hypertension
+C562694	idiopathic epilepsy
+C562750	POAG
+C562750	primary open-angle glaucoma
+C563492	optic nerve hypoplasia
+C564356	ATIN
+C564356	Acute tubulo-interstitial nephritis
+C566236	chorioretinal atrophy
+D000013	congenital abnormalities
+D000138	metabolic acidosis
+D000140	lactic acidosis
+D000141	renal tubular acidosis
+D000152	acne
+D000163	AIDS
+D000379	agoraphobia
+D000380	agranulocytosis
+D000419	albuminuria
+D000419	Albuminuria
+D000437	cocaine and ethanol abuse
+D000437	abuse of cocaine and ethanol
+D000471	alkalosis
+D000505	alopecia
+D000544	Alzheimer's disease
+D000544	AD
+D000550	amblyopia
+D000568	amenorrhea
+D000647	amnesia
+D000686	amyloidosis
+D000686	AL
+D000707	anaphylaxis
+D000740	Anemia
+D000740	anemia
+D000741	aplastic anemia
+D000743	hemolytic anemias
+D000743	hemolytic anemia
+D000744	autoimmune hemolytic anemia
+D000784	dissecting aneurysm
+D000787	anginal attacks
+D000787	angina
+D000788	Prinzmetal's angina
+D000799	angioedema
+D000799	angio-oedema
+D000855	anorexia
+D000860	hypoxaemia
+D000860	Hypoxaemia
+D000987	antisocial personality
+D000987	antisocial disorder
+D000987	antisocial personality disorder
+D001008	anxiety
+D001008	psychological disturbance
+D001008	anxiety disorders
+D001008	Anxiety
+D001037	aphasia
+D001049	apnoea
+D001049	Apnea
+D001049	apnea
+D001049	neonatal apnea
+D001145	irregular heart beat
+D001145	dysrhythmia
+D001145	accelerated junctional rhythms
+D001145	cardiac arrhythmia
+D001145	cardiac dysrhythmias
+D001145	dysrhythmias
+D001145	cardiac arrhythmias
+D001145	irregular heartbeat
+D001145	Accelerated junctional rhythms
+D001145	arrhythmia
+D001145	arrhythmic
+D001145	ventricular arrhythmias
+D001145	arrhythmias
+D001145	Ventricular arrhythmias
+D001146	alternating rhythm
+D001146	Alternating sinus rhythm
+D001168	arthritis
+D001172	rheumatoid arthritis
+D001201	ascites
+D001201	Ascites
+D001249	asthma
+D001249	asthmatic
+D001249	asthmatics
+D001249	bronchial asthma
+D001259	ataxia
+D001281	fibrillation
+D001281	atrial fibrillation
+D001281	AF
+D001281	atrial fibrillation and flutter
+D001282	AFL
+D001282	atrial flutter
+D001282	atrial fibrillation and flutter
+D001284	atrophy
+D001289	attention-deficit hyperactivity disorder
+D001321	autistic disorder
+D001321	autism
+D001327	Autoimmune diseases
+D001424	bacterial infections
+D001480	Extrapyramidal symptom
+D001480	EPSs
+D001480	neurotransmitter dysfunction
+D001480	EPS
+D001480	extrapyramidal syndrome
+D001480	Extrapyramidal Symptom
+D001480	Extrapyramidal syndrome
+D001523	psychiatric disorders
+D001523	neuropsychiatric-like behavior
+D001523	Mental Disorders
+D001523	neuropsychiatric symptoms
+D001523	psychopaths
+D001523	neuropsychiatric-like behaviors
+D001523	aggression
+D001523	hepatic, neurologic and psychiatric disorders
+D001523	neuropsychiatric disorders
+D001523	irritability
+D001649	bile duct destruction
+D001649	bile duct injury
+D001656	biliary atresia
+D001714	manic
+D001714	bipolar disorder
+D001714	bipolar
+D001714	antibiomania
+D001714	bipolar mania
+D001714	Mania
+D001714	hypomania
+D001714	manic depression
+D001714	mania
+D001745	bladder irritation
+D001745	lesions of the urinary bladder
+D001749	carcinomas of the urinary bladder
+D001766	blindness
+D001778	coagulopathy
+D001855	bone marrow suppression
+D001855	bone marrow toxicity
+D001855	myelosuppression
+D001919	bradydysrhythmias
+D001919	bradycardia
+D001919	bradycardiac
+D001919	bradycardic
+D001919	bradyarrhythmia
+D001919	Bradycardia
+D001919	tachy- or bradycardia
+D001925	Impaired fear recognition
+D001925	impaired fear recognition
+D001925	deficit in fear recognition
+D001927	subependymal cyst
+D001927	subependymal cysts
+D001927	Encephalopathy
+D001927	hyperammonemic encephalopathy
+D001927	myeloencephalopathy
+D001927	encephalopathy
+D001929	cerebral edema
+D001929	vasogenic edema
+D001930	ischemic brain injury
+D001930	brain damage
+D001930	brain trauma
+D001930	Brain damage
+D001930	traumatic brain injury
+D001930	structural deficits in the human brain
+D001930	brain injury
+D001930	Damage of substantia nigra pars reticulata
+D001930	lesioned SNR
+D001930	Brain injury
+D001930	damage of SNR
+D001930	abnormalities in the cortex, hippocampus, white matter, and ventricles
+D001932	brain tumors
+D001943	breast tumors
+D001943	carcinoma of the breast
+D001943	breast cancer
+D001987	bronchiectasis
+D001996	hemorrhagic bronchopneumonia
+D002037	right bundle branch block
+D002051	Burkitt lymphoma
+D002051	Burkitt-type malignant lymphoma
+D002056	burn
+D002056	burns
+D002177	candidiasis
+D002177	Candidiasis
+D002180	thrush
+D002180	oral candidiasis
+D002277	carcinoma
+D002289	non-small cell lung cancer
+D002289	NSCLC
+D002289	non-small-cell lung cancer
+D002292	renal carcinomas
+D002294	squamous cell cervical carcinoma
+D002294	squamous cell carcinoma of the cervix
+D002303	decrease in cardiac output
+D002311	idiopathic cardiomyopathy
+D002311	dilated cardiomyopathy
+D002312	hypertrophic cardiomyopathy
+D002318	Cardiovascular diseases
+D002318	Cardiovascular dysfunction
+D002318	cardiovascular toxicity
+D002318	cardiovascular collapse
+D002318	disturbances within the cardiovascular system
+D002318	cardiovascular or central nervous system toxicity
+D002318	cardiovascular disease
+D002318	CVDs
+D002318	CVD
+D002318	cardiovascular depression
+D002318	cardiovascular diseases
+D002340	atherosclerotic vascular disease
+D002375	cataleptic
+D002375	catalepsy
+D002375	Catalepsy
+D002386	cataract
+D002493	central nervous system leukemia
+D002493	cardiovascular or central nervous system toxicity
+D002493	central nervous system disease
+D002524	dysmetria
+D002526	Cerebellar and oculomotor dysfunction
+D002534	cerebral anoxia
+D002543	haemorrhagic infarction of the globus pallidus
+D002543	ICH
+D002543	intracerebral hemorrhage
+D002543	cerebral and pulmonary hemorrhage
+D002544	ischemic stroke
+D002544	ischemic and haemorrhagic stroke
+D002544	IS
+D002544	cerebral ischemic infarction
+D002545	cerebral ischemia
+D002545	ischemic hemisphere
+D002545	ischemia of the globus pallidus
+D002546	transient ischaemic attacks
+D002546	transient ischemic attack
+D002546	TIA
+D002561	cerebrovascular disease
+D002583	squamous cell cervical carcinoma
+D002583	squamous cell carcinoma of the cervix
+D002583	cervical carcinoma
+D002637	chest pain
+D002637	Chest pain
+D002637	precordial pain
+D002653	behavior disorder
+D002653	behavioral dyscontrol
+D002779	Cholestasis
+D002779	cholestatic
+D002779	cholestasis
+D002779	Cholestatic
+D002780	intrahepatic cholestasis
+D002806	chondrodysplasia punctata
+D002806	stippled epiphyses
+D002819	choreatic dyskinesias
+D002819	choreic mid-dose dyskinesias
+D002908	chronic disease
+D003027	cluster headache
+D003072	cognitive impairment
+D003072	cognitive and affective dysfunction
+D003072	cognitive disorders
+D003072	cognition deficits
+D003072	attention problems
+D003072	cognitive deficits
+D003072	delusions
+D003072	cognitive dysfunction
+D003072	Cognitive impairment
+D003110	colon cancer
+D003128	myxoedema coma
+D003221	confusion
+D003231	Blepharoconjunctivitis
+D003244	impaired consciousness
+D003248	constipation
+D003251	stenosis
+D003318	corneal opacities
+D003320	corneal ulcers
+D003320	Corneal ulcers
+D003324	coronary arterial disease
+D003324	coronary artery disease
+D003324	CAD
+D003324	coronary artery or myocardial disease
+D003324	coronary arteriosclerosis
+D003327	Coronary heart disease
+D003327	coronary heart disease
+D003327	coronary disease
+D003328	Atrial thrombosis
+D003328	atrial thrombosis
+D003329	coronary artery spasm
+D003329	coronary artery vasospasm
+D003329	coronary spasm
+D003329	coronary vasospasm
+D003329	Coronary vasospasm
+D003556	urinary bladder inflammation
+D003556	cystitis
+D003556	bladder inflammation
+D003556	hemorrhagic cystitis
+D003560	cysts
+D003560	subependymal cyst
+D003560	subependymal cysts
+D003586	CMV infection
+D003586	Cytomegalovirus infections
+D003643	cardiac death
+D003680	dysphagia
+D003681	dehydration
+D003681	Dehydrated
+D003693	Delirium
+D003693	delirium
+D003704	dementia
+D003711	loss of myelination
+D003865	major depression disorder
+D003865	major depression
+D003865	MDP
+D003865	MD
+D003865	Major depressive disorder
+D003866	depressive symptoms
+D003866	depressive and psychotic symptoms
+D003866	depressive disorder
+D003866	depressed
+D003866	depression
+D003866	depressive disorders
+D003866	unipolar depression
+D003866	depression disorder
+D003866	depressive episode
+D003866	Depression
+D003866	depressive
+D003872	dermatitis
+D003875	maculopapular eruption
+D003875	macro-papular rash
+D003875	skin reactions
+D003875	cutaneous reactions
+D003875	toxic dermatitis
+D003876	atopic dermatitis
+D003919	DI
+D003919	diabetes insipidus
+D003920	diabetes
+D003920	diabetic
+D003920	diabetes mellitus
+D003920	diabetics
+D003922	type 1 diabetes
+D003924	type 2 diabetes
+D003924	type 2 diabetic
+D003928	diabetic nephropathy
+D003929	diabetic neuropathy
+D003967	diarrheas
+D003967	diarrhea
+D004194	tubulointerstial disease
+D004211	disseminated intravascular coagulation
+D004211	consumption coagulopathies
+D004244	dizziness
+D004310	Taussig-Bing malformation
+D004342	hypersensitivity
+D004342	drug hypersensitivity
+D004342	allergic reactions
+D004342	allergy
+D004374	patent ductus arteriosus
+D004401	dysarthria
+D004408	dysguesia
+D004408	Dysguesia
+D004409	abnormal involuntary movements
+D004409	dyskinesias
+D004409	dyskinetic
+D004409	drug-induced dyskinesias
+D004409	dyskinesia
+D004409	choreic mid-dose dyskinesias
+D004409	abnormal involuntary motor movements
+D004409	decreased the locomotor activity
+D004409	akinesia
+D004409	dystonic dyskinesias
+D004409	Dyskinetic
+D004409	Dyskinesia
+D004409	LIDs
+D004412	dysmenorrhea
+D004415	postprandial dyspepsia
+D004417	dyspnea
+D004485	eczema
+D004487	edema
+D004487	swelling
+D004630	emergency department
+D004660	encephalitis
+D004678	multicystic encephalomalacia
+D004696	IE
+D004696	staphylococcal endocarditis
+D004696	Staphylococcal IE
+D004696	infective endocarditis
+D004714	endometrial hyperplasia
+D004802	fulminant eosinophilic
+D004802	eosinophilic myocarditis
+D004802	eosinophilia
+D004827	epilepsy
+D004827	epileptic
+D004827	epileptic seizure
+D004830	Tonic-clonic seizures
+D004830	GTCS
+D004830	tonic-clonic seizure
+D004830	grand mal seizures
+D004830	tonic-clonic seizures
+D004830	tonic clonic convulsions
+D004833	temporal lobe epilepsy
+D004844	epistaxis
+D004890	erythema
+D004892	erythema multiforme
+D005076	skin rash
+D005076	rash
+D005076	Skin rash
+D005128	Cerebellar and oculomotor dysfunction
+D005148	facial inflammatory dermatoses
+D005148	inflammatory facial dermatoses
+D005185	ovarian or fallopian tube cancers
+D005185	ovarian and fallopian tube cancers
+D005198	Fanconi syndrome
+D005199	Fanconi's anemia
+D005207	fasciculations
+D005207	muscle fasciculations
+D005207	muscle fasciculation
+D005207	fasciculation
+D005221	fatigue
+D005234	fatty liver
+D005234	Fatty liver
+D005315	embryopathy
+D005317	growth retardation
+D005317	intrauterine growth retardation
+D005317	IUGR
+D005317	Growth retardation
+D005334	neutropenic fever
+D005334	pyrexia
+D005334	fever
+D005355	cirrhosis
+D005355	cirrhotic
+D005355	fibrosis
+D005355	interstitial fibrosis
+D005368	filariasis
+D005483	Flushing
+D005483	flushing
+D005687	galactorrhea
+D005705	gallbladder disease
+D005767	Gastrointestinal abnormalities
+D005767	gastrointestinal toxicity
+D005885	gingival hyperplasia
+D005901	glaucoma
+D005909	GBM
+D005909	glioblastoma multiforme
+D005909	glioblastoma
+D005910	malignant glioma
+D005910	glioma
+D005911	gliosis
+D005921	glomerulonephritis
+D005921	glomerulosclerosis
+D005923	FSGS
+D005923	focal segmental glomerulosclerosis
+D005923	focal segmental glomerular sclerosis
+D006030	glucosuria
+D006111	Graves' disease
+D006130	growth failure
+D006212	visual hallucinations
+D006212	auditory hallucinations
+D006258	head and neck cancer
+D006261	headache
+D006261	headaches
+D006261	Headache
+D006311	ototoxicity
+D006323	asystole
+D006323	cardiac arrest
+D006331	cardiac damage
+D006331	cardiac inotropic
+D006331	congenital heart disease
+D006331	Cardiac disturbances
+D006331	cardiac diseases
+D006331	heart disease
+D006331	heart damage
+D006331	cardiac disease
+D006331	cardiac dysfunction
+D006331	heart diseases
+D006331	cardiac disturbances
+D006331	cardiac disarrangement
+D006331	cardiac injury
+D006332	cardiac hypertrophy
+D006332	hypertrophied hearts
+D006332	heart hypertrophy
+D006332	LV hypertrophy
+D006332	hypertrophic hearts
+D006333	congestive heart failure
+D006333	cardiac failure
+D006333	failing left ventricle
+D006333	CHF
+D006333	Congestive heart failure
+D006333	heart failure
+D006333	Heart failure
+D006345	ventricular septal defect
+D006345	ventricular septal defects
+D006349	valvular heart disease
+D006402	hematologic toxicities
+D006402	blood dyscrasias
+D006402	liver, blood, skin, and renal disorders
+D006402	Hematologic toxicity
+D006402	cytopenia
+D006402	hematological disorders
+D006406	hematoma
+D006417	hematuria
+D006423	homonymous hemianopsia
+D006456	hemoglobinuria
+D006461	hemolysis
+D006463	uremic
+D006463	HUS
+D006463	hemolytic-uremic syndrome
+D006470	hemorrhages
+D006470	hemorrhagic cystitis
+D006470	Bleeding
+D006470	cerebral and pulmonary hemorrhage
+D006470	haemorrhagic
+D006470	bleeding
+D006470	hemorrhagic
+D006470	Hemorrhage
+D006470	hemorrhage
+D006471	gastrointestinal bleeding
+D006471	GI bleeding
+D006473	blood loss
+D006486	hemosiderotic
+D006486	hemosiderin
+D006505	acute hepatitis
+D006509	hepatitis B
+D006521	chronic active hepatitis
+D006525	viral hepatitis
+D006526	hepatitis C virus infected
+D006526	hepatitis C virus infection
+D006527	Wilson disease
+D006527	Wilson's disease
+D006528	hepatocellular carcinoma
+D006528	hepatoma
+D006528	Hepatocellular carcinoma
+D006529	hepatomegaly
+D006547	hernias
+D006556	heroin abuse
+D006562	postzosteric
+D006679	HIV seroconversion
+D006685	hoarseness
+D006689	Hodgkin lymphoma
+D006689	HL
+D006816	Huntington's disease
+D006869	hydroureteronephrosis
+D006876	hydrothorax
+D006929	hyperaldosteronism
+D006930	OIH
+D006930	secondary hyperalgesia
+D006930	hyperalgesic
+D006930	hyperalgesia
+D006930	allodynic
+D006930	allodynia
+D006932	hyperbilirubinemia
+D006934	hypercalcemia
+D006934	hypercalcemic emergency
+D006934	Hypercalcemia
+D006934	hypercalcemias
+D006934	Milk-alkali syndrome
+D006934	hypercalcemic
+D006934	milk-alkali syndrome
+D006935	hypercapnic
+D006937	hypercholesterolemia
+D006943	Hyperglycemic
+D006943	hyperglycemia
+D006944	Hyperosmolar nonketotic coma
+D006944	hyperosmolar, nonketotic coma
+D006945	hyperhidrosis
+D006946	hyperinsulinemia
+D006947	Hyperkalemia
+D006947	hyperkalemia
+D006948	hyperactivity
+D006948	hyper
+D006948	hyperkinetic
+D006949	hyperlipemia
+D006949	hyperlipidemia
+D006951	hyperlipoproteinemias
+D006961	hyperparathyroidism
+D006965	hyperplasia
+D006966	hyperprolactinemia
+D006966	Hyperprolactinemia
+D006970	somnolence
+D006970	drowsiness
+D006972	hypertelorism
+D006973	a significant rise in systolic blood pressure
+D006973	Hypertensive
+D006973	hypertension
+D006973	HTN
+D006973	Hypertension
+D006973	hypertensive
+D006973	enlargement of pulse pressure
+D006973	hyper- or hypotension
+D006975	portal hypertension
+D006976	PPH
+D006976	pulmonary hypertension
+D006976	primary pulmonary hypertension
+D006976	Pulmonary hypertension
+D006980	hyperthyroidism
+D006984	hypertrophied
+D006984	hypertrophy
+D006984	hypertrophic
+D006985	hyperventilation
+D006994	hyporeninemic hypoaidosteronism
+D006994	type IV renal tubular acidosis
+D006994	hypoaldosteronism
+D006996	hypocalcaemia
+D007003	hypoglycemia
+D007003	hypoglycaemia
+D007008	Hypokalemia
+D007008	hypokalemia
+D007010	hyponatremia
+D007010	Hyponatremia
+D007010	hyponatraemia
+D007011	hypoparathyroidism
+D007022	drop in blood pressure
+D007022	hypotensive
+D007022	hypotension
+D007022	hyper- or hypotension
+D007022	Hypotension
+D007024	postural hypotension
+D007035	hypothermic
+D007035	hypothermia
+D007037	hypothyroid
+D007037	hypothyroidism
+D007037	myxoedema coma
+D007049	sensory and motor dysfunction
+D007153	immunodeficiencies
+D007177	SIADH
+D007177	syndrome of inappropriate anti-diuretic hormone
+D007177	syndrome of inappropriate secretion of anti-diuretic hormone
+D007177	Syndrome of inappropriate secretion of antidiuretic hormone
+D007177	syndrome of inappropriate secretion of antidiuretic hormone
+D007177	Syndrome of inappropriate antidiuretic hormone
+D007235	premature (< 36 weeks of gestation) infants
+D007235	preterm infants
+D007238	infarction
+D007239	infections
+D007239	infection
+D007249	inflammation
+D007249	Neuroinflammation
+D007249	inflammatory diseases
+D007249	neuroinflammation
+D007249	neuroinflammatory
+D007333	insulin resistance
+D007333	insulin sensitivity
+D007511	ischaemic
+D007511	ischemic lesions
+D007511	ischemia
+D007511	ischaemia
+D007511	ischemic
+D007565	jaundice
+D007669	renal calculi
+D007674	impaired renal function
+D007674	glomerular or tubular dysfunction
+D007674	renal damages
+D007674	Renal Toxicity
+D007674	kidney injury
+D007674	renal damage
+D007674	renal toxicity
+D007674	acute renal artery thrombosis
+D007674	thrombosis of a normal renal artery
+D007674	tubulointerstitial damage
+D007674	glomerular sclerosis
+D007674	renal disturbance
+D007674	Renal lesions
+D007674	kidney lesions
+D007674	Scleroderma renal crisis
+D007674	glomerulopathy
+D007674	renal lesions
+D007674	kidney damage
+D007674	Renal dysfunction
+D007674	renal tubular injury
+D007674	deterioration of renal function
+D007674	renal impairment
+D007674	tubular damage
+D007674	kidney disease
+D007674	scleroderma renal crisis
+D007674	glomerular dysfunction
+D007674	dysplasia of fetal kidneys
+D007674	hepatic and renal toxicity
+D007674	kidney tubular dysfunction
+D007674	glomerular hypertrophy
+D007674	glomerular disease
+D007674	Nephropathy
+D007674	impairment of the renal function
+D007674	mesangial dysfunction
+D007674	renal injury
+D007674	nephrotoxic
+D007674	renal dysfunction
+D007674	renal disease
+D007674	nephropathy
+D007674	nephrotoxicity
+D007674	glomerular injury
+D007674	liver, blood, skin, and renal disorders
+D007674	SRC
+D007676	chronic renal failure
+D007676	end-stage renal disease
+D007676	CRF
+D007676	ESRD
+D007680	Kidney cancer
+D007680	kidney cancer
+D007681	papillary necrosis
+D007683	tubular necrosis
+D007683	renal tubular necrosis
+D007683	acute tubular necrosis
+D007855	Pb poisoning
+D007859	impairment of learning and memory
+D007859	learning and memory impairments
+D007859	impairs associative learning
+D007859	impaired novel word learning
+D007859	impairments in learning, attention, inhibitory control, and arousal regulation
+D007859	learning and memory impairment
+D007859	learning and post-training consolidation deficits
+D007859	deterioration of learning and short-term memory
+D007918	leprosy
+D007938	leukemic
+D007938	leukaemia
+D007938	leukemia
+D007964	leukocytosis
+D007964	Leukocytosis
+D007970	leucopenia
+D007970	leukopenia
+D008103	cirrhotic diseases
+D008103	liver cirrhosis
+D008104	alcoholic cirrhosis
+D008107	CLD
+D008107	psychobiological dysfunction
+D008107	hepatic impairment
+D008107	liver disease
+D008107	liver, blood, skin, and renal disorders
+D008107	Hepatic dysfunction
+D008107	chronic liver disease
+D008113	hepatic neoplasms
+D008113	hepatic tumors
+D008113	liver neoplasms
+D008113	liver cancer
+D008118	loiasis
+D008133	prolonged QT syndrome
+D008133	QT interval prolongation
+D008133	Long QT syndrome
+D008133	long QT syndrome
+D008133	long-QT syndrome
+D008133	QT prolongation
+D008171	cerebral and pulmonary hemorrhage
+D008175	lung cancer
+D008178	cutaneous lupus erythematosus
+D008178	CLE
+D008180	lupus-like syndrome
+D008206	lymphadenopathy
+D008223	lymphomas
+D008223	lymphoma
+D008224	follicular cell lymphoma
+D008228	B-cell non-Hodgkin's lymphoma
+D008228	non-Hodgkin lymphoma
+D008231	lymphopenia
+D008232	lymphoproliferative disorder
+D008232	PTLD
+D008232	post-transplantation lymphoproliferative disorder
+D008258	Waldenstrom macroglobulinaemia
+D008269	cystoid macular edema
+D008288	malaria
+D008305	malignant hyperthermia
+D008413	mastitis
+D008415	mastocytosis
+D008569	impairment of learning and memory
+D008569	memory deterioration
+D008569	memory impairment
+D008569	memory loss
+D008569	retention deficit
+D008569	learning and memory impairments
+D008569	impaired memory performance
+D008569	memory impaired
+D008569	Memory deficit
+D008569	Dysfunctional overnight memory
+D008569	impaired memory
+D008569	memory deficits
+D008569	memory impairments
+D008569	learning and memory impairment
+D008569	impaired overnight memory
+D008569	deterioration of learning and short-term memory
+D008569	impaired the memory
+D008581	meningitis
+D008594	menopausal symptoms
+D008595	menorrhagia
+D008599	Menstrual abnormalities
+D008659	metabolic disturbances
+D008659	metabolic derangement
+D008659	metabolic abnormalities
+D008850	microphthalmos
+D008881	status migrainosus
+D008881	migraine
+D008881	migraines
+D008881	migraine headache
+D008944	MR
+D008944	mitral regurgitation
+D008945	mitral valve prolapse
+D009062	oral stereotypies
+D009069	Myoclonic movements
+D009069	hyperlocomotion
+D009069	motor disability
+D009069	hypoactivity
+D009101	MM
+D009101	RRMM
+D009101	Myeloma
+D009101	multiple myeloma
+D009120	leg cramps
+D009120	cramps
+D009120	muscle cramps
+D009127	rigidity
+D009135	Myopathy
+D009135	myopathy
+D009135	muscle toxicity
+D009135	myopathic
+D009135	myopathic disease
+D009136	muscular dystrophy
+D009136	myodystrophy
+D009181	fungal infections
+D009202	myocardial damage
+D009202	myocardial dysfunction
+D009202	myocardiopathy
+D009202	myocardial necrosis
+D009202	cardiomyopathic disorder
+D009202	myocardial depression
+D009202	myocardial injury
+D009202	cardiomyopathy
+D009202	myocardial degeneration
+D009202	cardiomyocyte damage
+D009202	myocardial strain
+D009202	coronary artery or myocardial disease
+D009203	Myocardial infarction
+D009203	MI
+D009203	myocardial infarctions
+D009203	AMI
+D009203	acute myocardial infarction
+D009203	myocardial infarction
+D009205	myocarditis
+D009205	eosinophilic myocarditis
+D009207	Myoclonus
+D009207	myoclonia
+D009207	myoclonus
+D009212	myoglobinuria
+D009220	Myositis
+D009220	myositis
+D009222	Myotonia
+D009224	myotonia congenita
+D009224	MC
+D009224	Myotonia congenita
+D009293	opioid addiction
+D009325	Nausea
+D009325	nausea
+D009336	necrotic
+D009336	necrosis
+D009336	necroses
+D009369	malignancy
+D009369	Cancer
+D009369	tumor
+D009369	malignancies
+D009369	cancers
+D009369	Tumor
+D009369	gynecologic and testicular cancers
+D009369	tumours
+D009369	neoplasms
+D009369	cancer
+D009369	neoplasm
+D009369	tumors
+D009369	tumour
+D009395	interstitial nephritis
+D009395	tubulo-interstitial injury
+D009395	AIN
+D009395	tubulointerstitial nephritis
+D009401	Nephrosis
+D009401	nephrosis
+D009401	neprotic
+D009404	nephrotic syndrome
+D009404	nephrotic
+D009410	subcellular degeneration
+D009410	axonal degeneration
+D009410	cardiomyocyte degeneration
+D009410	neuronal death
+D009421	nervous system abnormalities
+D009421	abnormalities in neuronal systems
+D009422	neurologic deterioration
+D009422	neurological dysfunctions
+D009422	neuropathic
+D009422	Acute neurologic dysfunction
+D009422	autonomic neuropathy
+D009422	neuronal damage
+D009422	Neuropathy
+D009422	hepatic, neurologic and psychiatric disorders
+D009422	Neurological complications
+D009422	neuropathy
+D009422	peripheral and autonomic neuropathy
+D009437	neuropathic pain
+D009447	neuroblastoma
+D009459	Neuroleptic malignant syndrome
+D009459	NMS
+D009459	neuroleptic malignant syndrome
+D009461	neurological symptoms
+D009461	cardiac symptoms
+D009503	Neutropenia
+D009503	neutropenic fever
+D009503	neutropenia
+D009759	Downbeat nystagmus
+D009759	downbeat nystagmus
+D009759	downbeating nystagmus
+D009759	nystagmus
+D009765	obesity
+D009798	ocular hypertension
+D009798	increased intraocular pressure
+D009798	raised intraocular pressure
+D009839	oligomenorrhea
+D009846	oliguria
+D009901	optic nerve toxicity
+D009901	toxic optic neuropathy
+D009901	optic neuropathy
+D010024	osteoporosis
+D010024	Osteoporosis
+D010051	ovarian or fallopian tube cancers
+D010051	ovarian cancer
+D010051	ovarian and fallopian tube cancers
+D010146	pains
+D010146	pain
+D010146	Pain
+D010149	postoperative pain
+D010211	papilledema
+D010243	palsy
+D010243	paralysis
+D010259	paranoid
+D010259	paranoia
+D010264	Paraplegia
+D010264	paraplegia
+D010291	hemiparesis
+D010292	paresthesias
+D010292	paresthesia
+D010300	Parkinson's disease
+D010300	parkinsonian
+D010300	idiopathic Parkinson's disease
+D010300	PD
+D010300	Parkinson's Disease
+D010302	Parkinson's disease
+D010302	Parkinsonism
+D010302	PD
+D010302	parkinsonism
+D010309	parotiditis
+D010382	peliosis
+D010386	carcinoma of the renal pelvis
+D010437	peptic ulcer disease
+D010488	polyarteritis nodosa
+D010523	peripheral neuropathy
+D010523	sensory neurotoxicity
+D010523	sensory axonal neuropathy
+D010523	Peripheral neuropathy
+D010523	peripheral and autonomic neuropathy
+D010523	peripheral sensory neuropathy
+D010534	peritoneal carcinoma
+D010534	carcinoma of the peritoneum
+D010554	impulsiveness
+D010554	personality disorder
+D010554	Impulsiveness
+D010554	aggressiveness
+D010612	sore throat
+D010612	throat pain
+D010677	Philadelphia chromosome
+D010787	photodermatitis
+D010911	pituitary tumors
+D011014	Pneumonitis
+D011014	pneumoniae
+D011014	Pneumonia
+D011014	pneumonia
+D011041	Poisoning
+D011041	poisoning
+D011086	polycythemia
+D011115	polyneuropathy
+D011141	polyuria
+D011141	polyuric
+D011183	postoperative complication
+D011183	Postoperative delirium
+D011183	postoperative delirium
+D011317	priapism
+D011471	prostate cancer
+D011471	carcinoma of the prostate
+D011507	proteinuric
+D011507	Proteinuria
+D011507	proteinuria
+D011552	Pseudomonas infections
+D011559	pseudotumor cerebri
+D011565	palmoplantar pustulosis
+D011565	psoriasis
+D011565	psoriatic
+D011595	agitation
+D011595	restlessness
+D011605	psychosis
+D011605	psychoses
+D011605	psychotic symptoms
+D011618	schizoaffective disorder
+D011618	depressive and psychotic symptoms
+D011618	schizophreniform disorder
+D011618	psychotic
+D011618	schizo-affective disorder
+D011618	psychiatric symptoms
+D011654	Pulmonary edema
+D011654	pulmonary edema
+D011655	pulmonary embolism
+D011681	pupillary abnormalities
+D011681	pupillary oscillation
+D011782	locked-in syndrome
+D012010	Pure red cell aplasia
+D012010	pure red cell aplasia
+D012128	adult respiratory distress syndrome
+D012131	respiratory failure
+D012131	respiratory dysfunction
+D012140	respiratory upset
+D012148	RLS
+D012148	restless legs syndrome
+D012164	retinal toxicity
+D012170	retinal vein occlusion
+D012173	retinal ganglion
+D012175	retinoblastoma
+D012206	Rhabdomyolysis
+D012206	rhabdomyolysis
+D012216	rheumatic disease
+D012393	papular rosacea
+D012393	rosacea
+D012421	rupture
+D012509	sarcomas
+D012559	schizophrenic
+D012559	schizophrenia
+D012595	systemic sclerosis
+D012595	SSc
+D012598	sclerosis
+D012640	convulsion
+D012640	Generalised and focal seizures
+D012640	Convulsive
+D012640	clonic seizure
+D012640	Convulsion
+D012640	seizure
+D012640	Seizure
+D012640	tonic and clonic seizure
+D012640	convulsions
+D012640	convulsive
+D012640	tonic seizures
+D012640	seizures
+D012640	Seizures
+D012640	clonic seizures
+D012678	loss of taste sensation
+D012678	sensory neuropathy
+D012769	shock
+D012769	circulatory failure
+D012770	cardiogenic shock
+D012798	salivation
+D012804	sinus bradycardia
+D012848	sinoatrial (S-A) block
+D012848	S-A block
+D012848	sinoatrial block
+D012871	liver, blood, skin, and renal disorders
+D012871	skin diseases
+D012871	skin reactions
+D012871	skin lesion
+D012893	sleep-related impairments
+D013001	pain disorders
+D013035	muscle spasm
+D013035	spasm
+D013035	Spasm
+D013035	muscle spasms
+D013036	infantile spasms
+D013203	Staphylococcal infections
+D013203	staphylococcal endocarditis
+D013203	Staphylococcal IE
+D013203	staphylococcal infections
+D013226	status epilepticus
+D013226	prolonged status epilepticus
+D013226	SE
+D013226	non-convulsive status epilepticus
+D013226	NCSE
+D013262	Stevens-Johnson syndrome
+D013262	toxic epidermal necrolysis
+D013274	gastric cancer
+D013274	AGC
+D013280	stomatitis
+D013345	subarachnoid hemorrhage
+D013345	SAH
+D013479	superior vena cava (SVC) syndrome
+D013479	SVC syndrome
+D013547	sweating
+D013547	Gustatory hyperhidrosis
+D013547	gustatory hyperhidrosis
+D013575	syncopal episode
+D013575	syncope
+D013575	Syncope
+D013610	tachycardia
+D013610	tachycardial
+D013610	tachy- or bradycardia
+D013616	sinus tachycardia
+D013617	supraventricular tachyarrhythmias
+D013716	lateral epicondylitis
+D013733	testicular pain
+D013789	thalassemia
+D013921	HIT II
+D013921	thrombocytopenia
+D013921	thrombopenia
+D013921	thrombocytopenia type II
+D013921	HITT
+D013921	HIT
+D013921	Thrombocytopenia
+D013921	HIT type II
+D013923	thromboembolic
+D013923	thromboembolism
+D013923	thromboembolic phenomena
+D013924	thrombophlebitis
+D013927	thrombotic
+D013927	thrombosis
+D013927	Thrombotic
+D013927	Thrombosis
+D013927	HITT
+D013927	thrombi
+D013959	thyroid disease
+D014009	onychomycosis
+D014012	tinnitus
+D014123	toxoplasmosis
+D014202	muscle tremors
+D014202	tremors
+D014202	tremor
+D014202	tremorgenic
+D014277	trigeminal neuralgia
+D014313	jaw stiffness
+D014313	prolonged jaw rigidity
+D014376	tuberculosis
+D014388	tuberculosis of the lung or lymph node
+D014397	pulmonary tuberculosis
+D014397	tuberculosis of the lung or lymph node
+D014456	ulcers
+D014456	ulcer
+D014474	unconsciousness
+D014474	loss of consciousness
+D014511	uraemia
+D014514	ureteric calculi
+D014514	ureteric stones or obstruction
+D014517	ureteric stones or obstruction
+D014517	Ureteric obstruction
+D014517	ureteric obstruction
+D014549	incontinence
+D014550	stress incontinence
+D014550	urinary stress incontinence
+D014552	urinary tract infections
+D014570	irritation of the urinary tract
+D014571	carcinoma of the urinary tract
+D014571	urinary tract cancer
+D014581	urticaria
+D014591	endometrial disease
+D014652	vasculitic disorders
+D014657	vasculitic
+D014657	vasculitis
+D014693	ventricular fibrillation
+D014786	loss of vision
+D014786	visual field defects
+D014786	blurred vision
+D014786	vision and hearing loss
+D014786	visual field abnormalities
+D014786	deterioration in visual field
+D014786	visual field loss
+D014786	visual impairment
+D014786	visual field defect
+D014786	visual defects
+D014786	visual loss
+D014786	Bilateral visual field abnormalities
+D014786	Binasal visual field defects
+D014826	ADSD
+D014826	vocal cord paralysis
+D014826	vocal nerve palsies
+D014826	adductor spasmodic dysphonia
+D014839	emesis
+D014839	vomiting
+D014839	vomitus
+D014883	electrolyte disorder
+D014917	pertussis
+D014923	Wiskott-Aldrich syndrome
+D014947	trauma
+D014985	dry eyes
+D014987	dry mouth
+D015175	microprolactinoma
+D015175	macroprolactinemia
+D015175	macroprolactinoma
+D015175	Macroprolactinemia
+D015179	colorectal cancer
+D015179	colorectal carcinoma
+D015210	gouty arthritis
+D015275	TLS
+D015275	tumor lysis syndrome
+D015354	Deterioration of vision
+D015356	retinal artery and choriocapillaris occlusion
+D015356	retinal artery and choriocapillaris occlusions
+D015427	reperfusion injury
+D015430	weight gain
+D015431	weight loss
+D015433	membranous glomerulonephritis
+D015464	chronic myeloid leukemia
+D015464	CML
+D015470	acute leukemia
+D015473	APL
+D015473	acute promyelocytic leukemia
+D015658	human immunodeficiency virus type 1-infected
+D015658	HIV disease
+D015658	HIV-infected
+D015658	HIV infection
+D015746	abdominal pain
+D015835	abnormal ocular motility
+D015835	ocular dyskinesias
+D015835	oscillopsia
+D015845	tonic pupillary
+D015878	Pupillary dilation
+D015878	pupil dilation
+D016171	torsades de pointes
+D016171	TdP
+D016171	Tdp
+D016171	Torsades de pointes
+D016171	Torsade de pointes
+D016171	Torsades de Pointes
+D016171	Torsade de Pointes
+D016171	torsade de pointes
+D016470	bacteremias
+D016470	bacteremia
+D016511	severe combined immunodeficiency syndrome
+D016584	panic attacks
+D016584	panic disorders
+D016584	MDP
+D016584	PD
+D016584	panic attack
+D016584	panic disorder
+D016757	sudden cardiac death
+D016757	Sudden Cardiac Death
+D016778	severe malaria
+D016889	endometrial cancer
+D016889	endometrial carcinoma
+D016905	gram-negative bacillary infections
+D017091	Ischemic colitis
+D017091	ischemic colitis
+D017093	liver dysfunction
+D017093	hepatic failure
+D017093	impaired renal and liver function
+D017109	akathisia
+D017114	ALF
+D017114	fulminant hepatic failure
+D017114	fulminant liver failure
+D017114	FHF
+D017114	acute liver failure
+D017114	end-stage or malignant liver disease
+D017116	Low back pain
+D017180	ventricular tachyarrhythmia
+D017180	ventricular tachycardia
+D017180	ventricular tachyarrhythmias
+D017180	VT
+D017202	myocardial ischemic injury
+D017202	ischaemic heart disease
+D017202	myocardial ischaemia
+D017202	myocardial ischemia
+D017512	lichenoid dermatitis
+D017682	myocardial stunning
+D017695	tissue injury
+D017699	pelvic pain
+D018149	glucose hypometabolism
+D018457	retained placenta
+D018476	bradykinesia
+D018476	hypokinesis
+D018487	left ventricular dysfunction
+D018487	deterioration of LV systolic and diastolic performance
+D018487	deterioration of left ventricular (LV) systolic function
+D018487	LV dysfunction
+D018487	abnormal left ventricular filling
+D018500	NDI
+D018500	nephrogenic DI
+D018500	neurogenic DI
+D018500	neurogenic diabetes insipidus
+D018500	nephrogenic diabetes insipidus
+D018754	arterial dysfunction
+D018754	ventricular dysfunction
+D018754	diastolic dysfunction
+D018771	arthralgia
+D018771	polyarthralgia
+D018805	septicemia
+D018805	sepsis
+D018856	interstitial cystitis
+D018879	premature ventricular contraction
+D018879	PVC
+D018908	weakness
+D018917	ischemic optic neuropathies
+D019115	necrotising fasciitis
+D019115	Necrotising fasciitis
+D019226	oral ulcers
+D019337	hematologic malignancies
+D019337	haematological malignancies
+D019446	endotoxemia
+D019462	Vasovagal syncope
+D019557	perioral dermatitis
+D019557	periocular dermatitis
+D019586	intracranial hypertension
+D019694	chronic hepatitis B
+D019694	chronic hepatitis B virus infection
+D019698	chronic hepatitis C
+D019955	conduction disorder
+D019956	stereotypies
+D019958	impairments in learning, attention, inhibitory control, and arousal regulation
+D019958	inattention
+D019964	cognitive and affective dysfunction
+D019964	affective disorder
+D019966	Drug abuse
+D019966	substance abuse disorder
+D019966	drug abuse
+D019966	substance abuse
+D019970	cocaine and ethanol abuse
+D019970	abuse of cocaine and ethanol
+D019970	cocaine abuse
+D020031	Epstein Barr Virus infection
+D020195	audiogenic tonic convulsions
+D020230	serotonin syndrome
+D020230	SS
+D020244	middle cerebral artery occlusion
+D020246	deep vein thrombosis
+D020246	DVT
+D020246	deep-vein thrombosis
+D020246	venous thrombosis
+D020250	postoperative nausea and vomiting
+D020257	ventricular remodeling
+D020258	central nervous system toxicity
+D020258	Neurologic toxicities
+D020258	neurotoxicity
+D020258	neurologic toxicity
+D020258	Central nervous system toxicity
+D020258	neurotoxic
+D020258	Central nervous system and cardiac toxicity
+D020293	cerebral vasculitis
+D020300	hemorrhagic strokes
+D020301	cerebral vasospasm
+D020325	hemiplegic migraine
+D020447	Swallowing abnormalities
+D020520	haemorrhagic infarction of the globus pallidus
+D020520	basal ganglia infarcts
+D020520	globus pallidus infarctions
+D020521	stroke
+D020521	hemorrhagic strokes
+D020521	ischemic and haemorrhagic stroke
+D020521	strokes
+D020522	mantle cell lymphoma
+D020522	Mantle cell lymphoma
+D020522	MCL
+D020734	parkinsonian disability
+D020758	Thoracic hematomyelia
+D020758	thoracic hematomyelia
+D020767	intracranial vascular thrombosis
+D020803	acute encephalopathy
+D020803	Acute encephalopathy
+D020820	movement difficulties
+D020820	asterixis
+D020820	Asterixis
+D020821	dystonic dyskinesias
+D020879	neuromuscular blockade
+D020896	hypovolemia
+D020920	sleep disturbance
+D020925	hypoxic-ischemic encephalopathy
+D020964	embryolethality
+D020964	embryonic death
+D020967	myotonic disorders
+D020967	myotonic condition
+D022124	hyperammonemic encephalopathy
+D022124	hyperammonemic
+D022124	hyperammonemia
+D023341	chill
+D023921	coronary stenosis
+D023921	coronary artery stenosis
+D028361	mitochondrial oxidative damage
+D028361	Mitochondrial impairment
+D028361	mitochondrial dysfunction
+D028361	mitochondrial abnormalities
+D028361	mitochondrial injury
+D028361	mitochondrial defect
+D030342	genotoxicity
+D031300	retinal vasculitis
+D034141	hypoalbuminemia
+D034381	loss of hearing
+D034381	hearing loss
+D034381	vision and hearing loss
+D041881	acute cholecystitis
+D047508	hepatocellular necrosis
+D048550	hepatic insufficiency syndrome
+D048909	diabetes complications
+D049950	Primary hyperparathyroidism
+D050171	dyslipidemia
+D050171	hyperglyceridemic effect
+D050197	atherosclerosis
+D050723	fractures
+D051436	chronic kidney disease
+D051437	deterioration of renal function
+D051437	renal impairment
+D051437	impaired renal and liver function
+D051437	renal failure
+D051437	renal insufficiency
+D051437	Renal failure
+D051474	post-herpetic neuralgia
+D051474	PHN
+D052016	mucositis
+D052878	ureteral lithiasis
+D052878	urolithiasis
+D053040	nephrolithiasis
+D053099	azotemia
+D053099	Azotemia
+D053609	lethargy
+D054019	immune reconstitution syndrome
+D054038	Posterior reversible encephalopathy syndrome
+D054038	Posterior leukoencephalopathy
+D054038	posterior leukoencephalopathy
+D054038	posterior reversible encephalopathy syndrome
+D054058	acute coronary syndrome
+D054179	hereditary angioedema
+D054198	acute lymphoblastic leukemia
+D054198	ALL
+D054218	T-cell lymphoblastic lymphoma
+D054220	Cortical dysplasia
+D054220	cortical dysplasia
+D054537	atrioventricular (AV) block
+D054537	atrioventricular block
+D054537	AV block
+D054549	apical ballooning syndrome
+D054549	broken heart syndrome
+D054549	TS
+D054549	Takotsubo syndrome
+D054556	venous thromboembolism
+D054556	VTE
+D054908	XDR-TB
+D054908	extensively drug-resistant tuberculosis
+D055154	spasmodic dysphonia
+D055370	pulmonary lesion
+D055370	pulmonary mass
+D055370	lung mass
+D055499	thrombolysis
+D056486	drug-induced liver injury
+D056486	liver damage
+D056486	toxic liver damage
+D056486	drug-induced liver damage
+D056486	hepatic damage
+D056486	hepatotoxic
+D056486	Toxic hepatitis
+D056486	hepatic injury
+D056486	hepatocellular damage
+D056486	hepatic and renal toxicity
+D056486	Hepatitis
+D056486	liver toxicity
+D056486	hepatic, neurologic and psychiatric disorders
+D056486	Drug-induced liver injury
+D056486	Drug-Induced Acute Liver Injury
+D056486	DILI
+D056486	hepatotoxicity
+D056486	hepatitis
+D056648	Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis
+D056648	ANCA positive vasculitis
+D056768	axonal neuropathy
+D056784	leukoencephalopathy
+D056824	upper-extremity deep venous thrombosis
+D056988	ANT-MI
+D056988	anterior infarction
+D056989	INF-MI
+D056989	inferior infarction
+D057049	thrombotic microangiopathy
+D058186	ARF
+D058186	pathological renal medullary lesions
+D058186	acute renal insufficiency
+D058186	Acute renal insufficiency
+D058186	AKI
+D058186	renal injury
+D058186	acute renal injury
+D058186	acute renal failure
+D058186	ARI
+D058186	acute kidney injury
+D058186	Acute renal failure
+D058186	Acute kidney injury
+D058186	acute nephrotoxicity
+D058625	End-Stage Liver Disease
+D058625	end-stage liver disease
+D058625	end-stage or malignant liver disease
+D058625	end-stage hepatic failure
+D059352	Musculoskeletal pain
+D059373	Mastodynia
+D059373	mastodynia
+D059413	abdominal infections
+D059606	polydipsia
+D060050	stable angina
+D060085	secondary infection
+D060831	hand-foot syndrome
+D060831	erythrodysesthesia
+D062787	overdose
+D063806	myalgia
+D063806	myalgias
+D064420	cytotoxicity
+D064420	toxicities
+D064420	Toxicities
+D064420	adverse drug reaction
+D064420	toxicity
+D064420	toxocity
+D064420	excitotoxicity
+D064420	Toxicity
+D064420	drug toxicity
+D064793	teratogenic
+D064793	teratogenicity
+D065626	nonalcoholic fatty liver disease
+D065626	Nonalcoholic fatty liver disease
+D065626	NAFLD
+D065817	anotia
+D066126	cardiac toxicity
+D066126	cardiotoxic
+D066126	Cardiotoxicity
+D066126	cardiotoxity
+D066126	cardiotoxicity
+D066126	Central nervous system and cardiac toxicity
