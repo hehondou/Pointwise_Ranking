@@ -9,6 +9,10 @@ import numpy as np
 import tensorflow as tf
 import os
 import shutil
+
+if not os.path.exists(MODEL_PATH):
+    os.makedirs(MODEL_PATH)
+
 shutil.copy2('development/Pointwise/constants.py', MODEL_PATH)
 
 seed = 13
@@ -101,7 +105,7 @@ class Pointwise:
                 initializer=tf.contrib.layers.xavier_initializer()
             )
             self.transform_left = tf.matmul(self.m_pooling, W)
-            self.sims = tf.reduce_sum(tf.multiply(self.transform_left, self.n_pooling), axis=1, keepdims=True)
+            self.sims = tf.reduce_sum(tf.multiply(self.transform_left, self.n_pooling), axis=1, keep_dims=True)
             self.para.append(W)
             self.see = W
 
@@ -139,7 +143,7 @@ class Pointwise:
         for p in self.para:
             l2_loss += tf.nn.l2_loss(p)
         with tf.name_scope("loss"):
-            losses = tf.nn.softmax_cross_entropy_with_logits_v2(logits=self.logits, labels=self.y)
+            losses = tf.nn.softmax_cross_entropy_with_logits(logits=self.logits, labels=self.y)
             self.loss_op = tf.reduce_mean(losses) + self.l2_reg_lambda * l2_loss
 
         # Accuracy
@@ -147,12 +151,15 @@ class Pointwise:
             correct_predictions = tf.equal(self.predictions, tf.argmax(self.y, 1))
             self.accuracy = tf.reduce_mean(tf.cast(correct_predictions, "float"), name="accuracy")
 
-        global_step = tf.Variable(0, name="global_step", trainable=False)
-        starter_learning_rate = self.learning_rate
-        learning_rate = tf.train.exponential_decay(starter_learning_rate, global_step, 100, 0.96)
-        optimizer = tf.train.AdamOptimizer(learning_rate)
-        grads_and_vars = optimizer.compute_gradients(self.loss_op)
-        self.train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
+        # global_step = tf.Variable(0, name="global_step", trainable=False)
+        # starter_learning_rate = self.learning_rate
+        # learning_rate = tf.train.exponential_decay(starter_learning_rate, global_step, 100, 0.96)
+        # optimizer = tf.train.AdamOptimizer(learning_rate)
+        # grads_and_vars = optimizer.compute_gradients(self.loss_op)
+        # self.train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
+
+        optimizer = tf.train.AdamOptimizer(self.learning_rate)
+        self.train_op = optimizer.minimize(self.loss_op)
 
     def train(self):
         self._train(self.num_epochs)
@@ -161,6 +168,7 @@ class Pointwise:
 
         if not os.path.exists(MODEL_PATH):
             os.makedirs(MODEL_PATH)
+            print('hellooo')
         saver = tf.train.Saver(max_to_keep=1)
 
         timer = Timer()
