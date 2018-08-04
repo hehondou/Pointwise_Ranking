@@ -168,7 +168,7 @@ class Pointwise:
 
         if not os.path.exists(MODEL_PATH):
             os.makedirs(MODEL_PATH)
-            print('hellooo')
+
         saver = tf.train.Saver(max_to_keep=1)
 
         timer = Timer()
@@ -271,6 +271,23 @@ class Pointwise:
             self.idx: data[3],
             self.dropout_keep_op: dropout_keep_prob
         }
+
+    def transform(self, m_ids, n_ids):
+        m_word_ids = self._get_word_ids(m_ids)
+        n_name_ids = self._get_word_ids(n_ids)
+
+        saver = tf.train.Saver()
+        with tf.Session() as sess:
+            saver.restore(sess, tf.train.latest_checkpoint(MODEL_PATH))
+            feed_dict = {
+                self.m_word_ids: m_word_ids,
+                self.n_word_ids: n_name_ids,
+                self.dropout_keep_op: 1.0
+            }
+            predict = sess.run(self.predictions, feed_dict=feed_dict)
+
+
+
 
     def _get_word_ids(self, X):
         word_ids = [x[1] for x in X]

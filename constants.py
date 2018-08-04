@@ -11,7 +11,7 @@ HIDDEN_NUM = 20
 # Training parameters
 BATCH_SIZE = 64
 TRAINABLE = False
-NUM_EPOCHS = 30
+NUM_EPOCHS = 100
 IS_EARLY_STOPPING = False
 
 # Folders' names
@@ -24,7 +24,7 @@ WORD_EMBEDDING = "data/w2v_model/wikipedia-pubmed-and-PMC-w2v.bin"
 # Name parameters
 ETYPE = 'disease'
 DATASET = 'cdr'
-MODEL_NAME = 'pointwise_best'
+MODEL_NAME = 'pointwise_100'
 
 INPUT_PATH = DATA + '{}/{}/'.format(ETYPE, DATASET)
 MODEL_PATH = TRAINED_MODELS + MODEL_NAME + "/"

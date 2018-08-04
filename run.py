@@ -15,7 +15,6 @@ def train():
     model.train()
 
 def evaluate():
-    model_params = {}
     model = Pointwise()
     model.build()
 
