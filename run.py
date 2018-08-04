@@ -15,10 +15,17 @@ def train():
     model.train()
 
 def evaluate():
-    model = Pointwise()
+    test_path = 'development/Pointwise/data/disease/cdr/testdata_pw.pickle'
+    test_data = Dataset(ETYPE, DATASET)
+    test_data.load_data(test_path)
+    embeddings = get_trimmed_glove_vectors(INPUT_PATH + 'embedding_data.npz')
+
+    model = Pointwise(embeddings, test_data)
     model.build()
+    model.load_data()
+    model.transform()
 
 if __name__ == '__main__':
-    train()
+    evaluate()
 
 

@@ -11,7 +11,7 @@ HIDDEN_NUM = 20
 # Training parameters
 BATCH_SIZE = 64
 TRAINABLE = False
-NUM_EPOCHS = 30
+NUM_EPOCHS = 20
 IS_EARLY_STOPPING = False
 
 # Folders' names

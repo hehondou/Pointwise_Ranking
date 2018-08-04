@@ -151,13 +151,6 @@ class Pointwise:
             correct_predictions = tf.equal(self.predictions, tf.argmax(self.y, 1))
             self.accuracy = tf.reduce_mean(tf.cast(correct_predictions, "float"), name="accuracy")
 
-        # global_step = tf.Variable(0, name="global_step", trainable=False)
-        # starter_learning_rate = self.learning_rate
-        # learning_rate = tf.train.exponential_decay(starter_learning_rate, global_step, 100, 0.96)
-        # optimizer = tf.train.AdamOptimizer(learning_rate)
-        # grads_and_vars = optimizer.compute_gradients(self.loss_op)
-        # self.train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
-
         optimizer = tf.train.AdamOptimizer(self.learning_rate)
         self.train_op = optimizer.minimize(self.loss_op)
 
@@ -272,22 +265,48 @@ class Pointwise:
             self.dropout_keep_op: dropout_keep_prob
         }
 
-    def transform(self, m_ids, n_ids):
-        m_word_ids = self._get_word_ids(m_ids)
-        n_name_ids = self._get_word_ids(n_ids)
+    def transform(self):
+        def one_batch(data):
+            X_m_batch = []
+            X_n_batch = []
+            Y_batch = []
 
-        saver = tf.train.Saver()
-        with tf.Session() as sess:
-            saver.restore(sess, tf.train.latest_checkpoint(MODEL_PATH))
-            feed_dict = {
-                self.m_word_ids: m_word_ids,
-                self.n_word_ids: n_name_ids,
+            for i in data:
+                num = len(self.data[i]['y'])
+                y_data = self.data[i]['y']
+                for y in y_data:
+                    if y == 1:
+                        Y_batch.append([0, 1])
+                    else:
+                        Y_batch.append([1, 0])
+                X_n_batch.extend(self.data[i]['x_n'])
+                X_m_batch.extend([self.data[i]['x_m']] * num)
+
+            X_m_batch, X_n_batch, Y_batch = shuffle(X_m_batch, X_n_batch, Y_batch)
+
+            m_word_ids = self._get_word_ids(X_m_batch)
+            n_word_ids = self._get_word_ids(X_n_batch)
+
+            yield(m_word_ids, n_word_ids, Y_batch)
+
+        def make_feed_dict(data):
+            return {
+                self.m_word_ids: data[0],
+                self.n_word_ids: data[1],
+                self.y: data[2],
                 self.dropout_keep_op: 1.0
             }
-            predict = sess.run(self.predictions, feed_dict=feed_dict)
+        saver = tf.train.Saver()
+        with tf.Session() as sess:
+            saver.restore(sess, tf.train.latest_checkpoint('development/Pointwise/data/trained_models/pointwise_100'))
 
+            self.train_idx = shuffle(self.train_idx)
 
+            for idx, batch in enumerate(one_batch(self.train_idx)):
+                feed_dict = make_feed_dict(batch)
+                predict, acc = sess.run([self.predictions, self.accuracy], feed_dict=feed_dict)
 
+                print(acc)
 
     def _get_word_ids(self, X):
         word_ids = [x[1] for x in X]

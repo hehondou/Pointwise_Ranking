@@ -11,7 +11,7 @@ HIDDEN_NUM = 20
 # Training parameters
 BATCH_SIZE = 64
 TRAINABLE = False
-NUM_EPOCHS = 15
+NUM_EPOCHS = 20
 IS_EARLY_STOPPING = False
 
 # Folders' names
@@ -27,4 +27,4 @@ DATASET = 'cdr'
 MODEL_NAME = 'pointwise_test'
 
 INPUT_PATH = DATA + '{}/{}/'.format(ETYPE, DATASET)
-MODEL_PATH = TRAINED_MODELS + MODEL_NAME
+MODEL_PATH = TRAINED_MODELS + MODEL_NAME + "/"
