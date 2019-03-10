@@ -15,8 +15,8 @@ NUM_EPOCHS = 20
 IS_EARLY_STOPPING = False
 
 # Folders' names
-DATA = "development/Pointwise/data/"
-TRAINED_MODELS = "development/Pointwise/data/trained_models/"
+DATA = "data/"
+TRAINED_MODELS = "data/trained_models/"
 
 # Word embedding configuration
 WORD_EMBEDDING = "data/w2v_model/wikipedia-pubmed-and-PMC-w2v.bin"

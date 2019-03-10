@@ -1,7 +1,7 @@
 
-from development.Pointwise.dataset import Dataset, get_trimmed_glove_vectors
-from development.Pointwise.constants import *
-from development.Pointwise.pointwise import Pointwise
+from dataset import Dataset, get_trimmed_glove_vectors
+from constants import *
+from pointwise import Pointwise
 
 def train():
     train_data = Dataset(ETYPE, DATASET)
@@ -14,8 +14,9 @@ def train():
     model.build()
     model.train()
 
+
 def evaluate():
-    test_path = 'development/Pointwise/data/disease/cdr/testdata_pw.pickle'
+    test_path = 'data/disease/cdr/testdata_pw.pickle'
     test_data = Dataset(ETYPE, DATASET)
     test_data.load_data(test_path)
     embeddings = get_trimmed_glove_vectors(INPUT_PATH + 'embedding_data.npz')
@@ -25,7 +26,8 @@ def evaluate():
     model.load_data()
     model.transform()
 
+
 if __name__ == '__main__':
-    evaluate()
+    train()
 
 

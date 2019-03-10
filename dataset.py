@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 from nltk.corpus import stopwords
 
-from development.BioNen.constants import *
+from constants import *
 from utils import Timer
 
 seed = 13

@@ -1,5 +1,5 @@
-from development.Pointwise.constants import *
-from development.Pointwise.dataset import pad_sequences
+from constants import *
+from dataset import pad_sequences
 
 from utils import Timer
 from sklearn.utils import shuffle
@@ -13,7 +13,7 @@ import shutil
 if not os.path.exists(MODEL_PATH):
     os.makedirs(MODEL_PATH)
 
-shutil.copy2('development/Pointwise/constants.py', MODEL_PATH)
+shutil.copy2('constants.py', MODEL_PATH)
 
 seed = 13
 np.random.seed(seed)
